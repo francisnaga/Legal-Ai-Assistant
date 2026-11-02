@@ -1,11 +1,19 @@
-# Legal AI Assistant
+<p align="center">
+  <img src="public/legal-ai-mark.svg" alt="Legal AI Assistant Brand Mark" width="100" height="100" />
+</p>
 
-Legal AI assistant utilizing Retrieval-Augmented Generation (RAG) for intelligent case law analysis and document querying.
+<h1 align="center">Legal AI Assistant</h1>
 
-[![Next.js](https://img.shields.io/badge/Framework-Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![LangChain](https://img.shields.io/badge/Orchestration-LangChain-1C3C3C?logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<p align="center">
+  <strong>Legal AI assistant utilizing Retrieval-Augmented Generation (RAG) for intelligent case law analysis and document querying.</strong>
+</p>
+
+<p align="center">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Framework-Next.js-black?logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/Orchestration-LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+</p>
 
 ---
 

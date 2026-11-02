@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node --transpile-only src/index.ts",
-    "dev": "nodemon --exec ts-node --transpile-only src/index.ts",
-    "build": "tsc"
+    "start": "node init && ts-node --transpile-only src/index.ts",
+    "dev": "node init && nodemon --exec ts-node --transpile-only src/index.ts",
+    "build": "node init && tsc"
   },
   "keywords": [],
   "author": "",
